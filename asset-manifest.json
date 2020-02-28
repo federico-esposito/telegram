@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/telegram/static/css/main.b42a1ff1.chunk.css",
+    "main.js": "/telegram/static/js/main.ae7658d6.chunk.js",
+    "main.js.map": "/telegram/static/js/main.ae7658d6.chunk.js.map",
+    "runtime-main.js": "/telegram/static/js/runtime-main.d22f42b3.js",
+    "runtime-main.js.map": "/telegram/static/js/runtime-main.d22f42b3.js.map",
+    "static/js/2.974533a8.chunk.js": "/telegram/static/js/2.974533a8.chunk.js",
+    "static/js/2.974533a8.chunk.js.map": "/telegram/static/js/2.974533a8.chunk.js.map",
+    "static/js/3.34885b0e.chunk.js": "/telegram/static/js/3.34885b0e.chunk.js",
+    "static/js/3.34885b0e.chunk.js.map": "/telegram/static/js/3.34885b0e.chunk.js.map",
+    "static/css/4.8a1ad854.chunk.css": "/telegram/static/css/4.8a1ad854.chunk.css",
+    "static/js/4.ccbf7d41.chunk.js": "/telegram/static/js/4.ccbf7d41.chunk.js",
+    "static/js/4.ccbf7d41.chunk.js.map": "/telegram/static/js/4.ccbf7d41.chunk.js.map",
+    "3a2ea1d8fd15618bbd7e.worker.js": "/telegram/3a2ea1d8fd15618bbd7e.worker.js",
+    "3a2ea1d8fd15618bbd7e.worker.js.map": "/telegram/3a2ea1d8fd15618bbd7e.worker.js.map",
+    "index.html": "/telegram/index.html",
+    "precache-manifest.d0d4d5dc15b1408e64d359641e18a6b0.js": "/telegram/precache-manifest.d0d4d5dc15b1408e64d359641e18a6b0.js",
+    "service-worker.js": "/telegram/service-worker.js",
+    "static/css/4.8a1ad854.chunk.css.map": "/telegram/static/css/4.8a1ad854.chunk.css.map",
+    "static/css/main.b42a1ff1.chunk.css.map": "/telegram/static/css/main.b42a1ff1.chunk.css.map",
+    "static/js/2.974533a8.chunk.js.LICENSE.txt": "/telegram/static/js/2.974533a8.chunk.js.LICENSE.txt",
+    "static/media/DialogDetails.css": "/telegram/static/media/bg.9b7ea631.jpg",
+    "static/media/Message.css": "/telegram/static/media/bubble-tail-left.1e4dc488.svg",
+    "static/media/InputBox.css": "/telegram/static/media/bubble-tail-right.6b94009c.svg",
+    "static/media/ForwardTargetChat.css": "/telegram/static/media/check.fb38f7d6.svg",
+    "static/media/telegram-logo.8e3f975b.svg": "/telegram/static/media/telegram-logo.8e3f975b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d22f42b3.js",
+    "static/js/2.974533a8.chunk.js",
+    "static/css/main.b42a1ff1.chunk.css",
+    "static/js/main.ae7658d6.chunk.js"
+  ]
+}
