@@ -1,7 +1,7 @@
 {
   "homepage": "http://federico-esposito.github.io/telegram",
-  "name": "telegram_react",
-  "version": "0.0.586",
+  "name": "telegram",
+  "version": "0.0.6",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.8.0",
