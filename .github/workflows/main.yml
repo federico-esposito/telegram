@@ -1,0 +1,25 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+
+    - name: Build
+      run: |
+        npm install
+        npm run-script build
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REACT_APP_TELEGRAM_API_ID: ${{ secrets.REACT_APP_TELEGRAM_API_ID }}
+        REACT_APP_TELEGRAM_API_HASH: ${{ secrets.REACT_APP_TELEGRAM_API_HASH }}
+        BRANCH: gh-pages
+        FOLDER: dist
